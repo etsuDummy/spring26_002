@@ -1,0 +1,12 @@
+Frogger
+Frog NEEDS to be able to leap forward
+Frog NEEDS to be able to move side/side
+Frog NEEDS to be able to go backwards
+Game NEEDS moving obstacles
+Game NEEDS hazards(similar to sand traps in golfing but it ends game)
+Game NEEDS to be able to loop whenever a game is lost/won
+Game NEEDS to take user input
+Game NEEDS to track time from start to end
+Game should have a scoreboard
+Game should have graphics and not be text based
+Game should have spot to input a player name
