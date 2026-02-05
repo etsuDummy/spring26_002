@@ -1,0 +1,29 @@
+Jacob Whaley
+
+Wolves Den (Inspired by Pac-Man)
+
+The player is a hunter looking for treasure in a cave but must avoid wolves in order to obtain it. 
+It is inspired by Pac Man where the cave is the same each level but the ammo, 
+treasure are less or more and in random spots. 
+
+Requirements:
+
+1. The game shall use a fixed cave map that remains the same layout for every level.
+
+2. The player shall control a hunter character using keyboard input (e.g., arrow keys or WASD).
+
+3. The cave shall contain wolves that move autonomously and act as enemies to the player.
+
+4. The player shall lose a life if the hunter collides with a wolf while not protected or armed.
+
+5. The game shall randomly place treasure items in different locations at the start of each level.
+
+6. The game shall randomly place ammo pickups in the cave at the start of each level.
+
+7. The number of treasure items shall vary per level, increasing or decreasing based on difficulty.
+
+8. The player shall collect treasure by moving over it, increasing the player’s score.
+
+9. The player shall be able to pick up ammo, which allows the hunter to temporarily defend against wolves.
+
+10. When the player has ammo, they shall be able to defeat wolves, removing them from the cave for a limited time.
